@@ -39,3 +39,4 @@ Req 10 : Sistemde bir firmaya ait tüm aktif iş ilanları listelenebilmelidir.
 Liste, tablo formunda gelmelidir. Listede firmadı, genel iş pozisyonu adı, açık pozisyon adedi, yayın tarihi, son başvuru tarihi bilgileri olmalıdır.
 
 Req 11 : İş verenler sistemdeki bir ilanı kapatabilmelidir.
+Req 12 : Adaylar sisteme CV girişi yapabiliyor.
